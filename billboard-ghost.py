@@ -21,7 +21,7 @@ day = randint(1, 28)
 
 rawDate = str(year) + '-' + str(month) + '-' + str(day)
 
-date = datetime.strptime(rawDate, '%Y-%M-%d').date()
+date = datetime.strptime(rawDate, '%Y-%m-%d').date()
 
 def lastSat(input):
         d = input.toordinal()
