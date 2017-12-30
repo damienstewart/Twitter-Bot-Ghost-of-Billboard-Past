@@ -52,7 +52,7 @@ try:
         songTitle = data['songs'][0]['song_name']
         spotifyID = data['songs'][0]['spotify_id']
         print artist, songTitle, spotifyID
-        api.update_status('The number 1 song on the Billboard Hot 100 for the week of ' + str(newDate) + ' was ' + str(songTitle) + ' by ' + str(artist) + '. #BillboardHot100 #BillboardHot100SinglesChart Listen on Spotify: https://open.spotify.com/track/' + str(spotifyID))
+        api.update_status('The number 1 song on the Billboard Hot 100 for the week of ' + str(newDate) + ' was "' + str(songTitle) + '" by ' + str(artist) + '. #Billboard Listen on Spotify: https://open.spotify.com/track/' + str(spotifyID))
 except URLError, e:
     print 'No data. Got an error code:', e, e.read()
 
