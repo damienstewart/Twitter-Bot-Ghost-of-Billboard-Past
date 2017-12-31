@@ -12,9 +12,9 @@ This is my first project written in Python
 
 The Twitter bot has been met with some very positive acclaim!
 
-<p style="text-align:center"><img src="https://i.imgur.com/qP0TuJk.png"></p>
+<img src="https://i.imgur.com/qP0TuJk.png">
 
-<p style="text-align:center"><img src="https://i.imgur.com/wimEp5G.png"></p>
+<img src="https://i.imgur.com/wimEp5G.png">
 
 # TODO
 
