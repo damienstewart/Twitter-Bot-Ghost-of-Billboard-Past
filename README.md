@@ -6,8 +6,12 @@ Every time this Python script is called it will grab the information of one char
 
 This is my first project written in Python
 
+<img src="https://i.imgur.com/S354TKn.png">
+
+<img src="https://i.imgur.com/aU6I8jr.png">
+
 # TODO
 
-1. I'd like to add functionality to Tweet at people (semi-random people of interest) with the #1 Billboard hit on the day that they joined twitter. 
+<strike>1. I'd like to add functionality to Tweet at people (semi-random people of interest) with the #1 Billboard hit on the day that they joined twitter.</strike> <strong>Complete</strong>
 
-2. Fix a bug that occurs when the bot cannot find the Spotify ID for a song. (if data['songs'][0]['spotify_id'] is empty, exemption)
+<strike>2. Fix a bug that occurs when the bot cannot find the Spotify ID for a song. (if data['songs'][0]['spotify_id'] is empty, exemption)</strike> <strong>Complete</strong>
