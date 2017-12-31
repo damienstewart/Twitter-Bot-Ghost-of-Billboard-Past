@@ -6,9 +6,13 @@ Every time this Python script is called it will grab the information of one char
 
 This is my first project written in Python
 
-<img src="https://i.imgur.com/S354TKn.png">
+# Update
 
-<img src="https://i.imgur.com/aU6I8jr.png">
+We've been met with some very positive acclaim!
+
+<img src="https://i.imgur.com/qP0TuJk.png">
+
+<img src="https://i.imgur.com/wimEp5G.png">
 
 # TODO
 
